@@ -1,0 +1,19 @@
+h1{
+  color: white;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 250%;
+}
+p{
+  font-size: 150%;
+  font-family: monospace;
+  color: green;
+}
+#content{
+  background-color: black;
+  width: 700px;
+  min-height: 300px;
+  border-style: dashed solid;
+  border-color: green;
+  border-width: thick;
+}
