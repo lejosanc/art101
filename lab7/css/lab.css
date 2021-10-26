@@ -1,0 +1,31 @@
+h1{
+  color: coral ;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 300%;
+}
+h2{
+  color: coral;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 250%;
+}
+h3{
+  color: coral;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 250%;
+}
+p{
+  font-size: 150%;
+  font-family: monospace;
+  color: darksalmon;
+}
+#content{
+  background-color: cornflowerblue;
+  text-align: center;
+}
+#output{
+  background-color: darkred;
+    font-size: 350%;
+}
