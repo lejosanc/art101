@@ -1,8 +1,8 @@
-/**
+/*
  * Author:  Sharon Chung and Leola Sanchez
  * Created:   10.21.2021
  * License: Public Domain.
- **/
+ */
 
 
       // Define Variables
@@ -14,7 +14,7 @@
           color :"Gray",
           year  :"2013",
           name : "The Kia",
-          extras : " family car, a lil dusty, small but affordable, slowly dying";
+          extras : " family car, a lil dusty, small but affordable, slowly dying"
         }
 
       //output

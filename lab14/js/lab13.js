@@ -42,11 +42,11 @@
 //             }
 //           else {
 //               console.log(i);
-// //           }
- var str= "";
-function fizzbuzzboom (){
+//           }
+// }
+function fizzbuzzboom (200){
   for (var i=0; i<=200; i++) {
-
+   var str= "";
       if (i % 3 == 0) {
           str += "Fizz";
       }
@@ -69,4 +69,4 @@ function fizzbuzzboom (){
   }
 }
 
-$("output").append("<p>" + str + "</p>");
+$("#output").append("<p>" + str + "</p>");
